@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vignesh-ML-Dev
+- 👋 Hi, I’m Vignesh Nagarajan
 - 👀 I’m interested in Mobile,Web Development and Also AI Models
 - 🌱 I’m currently learning TensorFlow,Deep Learning, Data Science,NLP
 - 💞️ I’m looking to collaborate on Any AI/NLP/Deep learning related work
